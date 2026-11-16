@@ -1,0 +1,20 @@
+themes/cursor.json
+  s_24980268d9b9b2::t_4bd4a22f4d0382 26
+  s_24980268d9b9b2::t_2d146e3253897f 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "fa9737c7a43fdeb245936afe8911aa5e7993ce4d",
+  "prompts": {},
+  "sessions": {
+    "s_24980268d9b9b2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e1d2a9bb1ffe7473Z4RLA62dU2",
+        "model": "unknown"
+      },
+      "human_author": "Vansh Aggarwal <vanshaggarwal2004@gmail.com>"
+    }
+  }
+}
